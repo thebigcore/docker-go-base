@@ -18,3 +18,4 @@ RUN apk del git
 ENTRYPOINT []
 
 WORKDIR /protos
+
